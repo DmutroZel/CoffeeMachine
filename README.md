@@ -1,6 +1,6 @@
 # CoffeeMachine
 
- <img src="./images/sait.png" alt="">
+ <img src="./sait.png" alt="">
 
 
  HTML
